@@ -1,0 +1,35 @@
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# Pytest cache
+.cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*~
+*.swo
+.DS_Store
+
+# Logs
+*.log
+
+# Configuration files
+*.sqlite3
+*.db
+
+# Dependency directories
+node_modules/
